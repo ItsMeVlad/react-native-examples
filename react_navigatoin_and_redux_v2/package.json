@@ -1,0 +1,15 @@
+{
+  "name": "react_navigation_and_redux",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "16.0.0-alpha.12",
+    "redux": "^3.7.1",
+    "react-redux": "^5.0.5",
+    "react-native": "0.47.1",
+    "react-navigation": "^1.0.0-beta.11"
+  }
+}
